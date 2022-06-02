@@ -1,0 +1,20 @@
+DEBUG:root:=======================================
+DEBUG:root:пользователь ввел имя - Egor
+DEBUG:root:пользователь ввел число
+DEBUG:root:15
+DEBUG:root:пользователь ввел число
+DEBUG:root:8
+DEBUG:root:пользователь ввел число
+DEBUG:root:12
+DEBUG:root:пользователь ввел число
+DEBUG:root:13
+DEBUG:root:пользователь ввел число
+DEBUG:root:14
+DEBUG:root:пользователь 
+DEBUG:root:Egor
+DEBUG:root:угадал загаданное число
+DEBUG:root:14
+DEBUG:root:использовав
+DEBUG:root:5
+DEBUG:root:попыток
+DEBUG:root:=======================================
