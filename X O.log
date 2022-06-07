@@ -1,0 +1,43 @@
+DEBUG:root:НАЧАЛО ИГРЫ
+DEBUG:root:пользователь ввел - a1
+DEBUG:root:бот ввел - B3
+DEBUG:root:пользователь ввел - a2
+DEBUG:root:бот ввел - B1
+DEBUG:root:пользователь ввел - a3
+DEBUG:root:бот ввел - C3
+DEBUG:root:ПОБЕДА ПОЛЬЗОВАТЕЛЯ
+ИГРА ЗАВЕРШЕНА
+DEBUG:root:НАЧАЛО ИГРЫ
+DEBUG:root:пользователь ввел - b1
+DEBUG:root:бот ввел - C1
+DEBUG:root:пользователь ввел - b2
+DEBUG:root:бот ввел - A1
+DEBUG:root:пользователь ввел - c3
+DEBUG:root:бот ввел - B3
+DEBUG:root:пользователь ввел - a3
+DEBUG:root:бот ввел - C2
+DEBUG:root:пользователь ввел - a2
+DEBUG:root:НИЧЬЯ
+DEBUG:root:НАЧАЛО ИГРЫ
+DEBUG:root:пользователь ввел - b2
+DEBUG:root:бот ввел - A2
+DEBUG:root:некоректный ввод пользователя - b2
+DEBUG:root:пользователь ввел - b3
+DEBUG:root:бот ввел - C2
+DEBUG:root:пользователь ввел - c3
+DEBUG:root:бот ввел - C1
+DEBUG:root:пользователь ввел - a1
+DEBUG:root:бот ввел - B1
+DEBUG:root:ПОБЕДА ПОЛЬЗОВАТЕЛЯ
+ИГРА ЗАВЕРШЕНА
+DEBUG:root:НАЧАЛО ИГРЫ
+DEBUG:root:пользователь ввел - a1
+DEBUG:root:бот ввел - C1
+DEBUG:root:пользователь ввел - b1
+DEBUG:root:бот ввел - A2
+DEBUG:root:пользователь ввел - b3
+DEBUG:root:бот ввел - B2
+DEBUG:root:пользователь ввел - c3
+DEBUG:root:бот ввел - A3
+DEBUG:root:ПОБЕДА БОТА
+ИГРА ЗАВЕРШЕНА
